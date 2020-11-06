@@ -1,8 +1,6 @@
 # Overview:
 
-This project is intentionally open-ended. We want to see you create when it’s all up to you. The project will be assessed on your code quality, UI/UX, and overall quality and feel of the app.
-
-
+This project is intentionally open-ended. 
 
 # App Premise:
 
@@ -25,10 +23,3 @@ This project is intentionally open-ended. We want to see you create when it’s 
 - Use the GitHub API - No authentication needed 
     - Followers endpoint - https://developer.github.com/v3/users/followers/
     - User info endpoint - https://developer.github.com/v3/users/
-- When showing more information about a user, what information you display is up to you. If you were creating this product, what information do you think users want to see?
-
-
-
-# Design:
-
-- We want to see what kind of design you come up with. We don’t expect you to be a professional designer, but we believe our developers should have rudamentary design knowledge. 
